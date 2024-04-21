@@ -1,0 +1,6 @@
+com\mycompany\factorymethodex\CircleGeometry.class
+com\mycompany\factorymethodex\GeometryFactory.class
+com\mycompany\factorymethodex\SquareGeometry.class
+com\mycompany\factorymethodex\Geometry.class
+com\mycompany\factorymethodex\TriangleGeometry.class
+com\mycompany\factorymethodex\FactoryMethodEx.class
